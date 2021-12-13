@@ -10,5 +10,5 @@ This script uses Selenium so you can also check live working of this bot.
 1) you can get any no of responses (eg 100,500 or maybe 10000+)
 2) you can get random response.
 3) you can also get desired outcome.
-3.1) Tell the bot about outcome percent or no's and no of respondants.
-3.2) Bot will fill every question in google form by choosing appropriate answers so that the final outcome must be same or similar as provided. 
+a)Tell the bot about outcome percent or no's and no of respondants.
+b) Bot will fill every question in google form by choosing appropriate answers so that the final outcome must be same or similar as provided. 
